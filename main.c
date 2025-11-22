@@ -4,9 +4,6 @@
 
 
 /* 
-*   ????? Usage:  a.out [filename] > output
-*
-*       
 *   NOTES:
 *
 *   1) Matrix Market files are always 1-based, i.e. the index of the first
@@ -406,4 +403,5 @@ int main(int argc, char *argv[])
     free(random_vector); 
     free(result);
 	return 0;
+
 }
