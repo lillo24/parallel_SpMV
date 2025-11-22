@@ -30,8 +30,8 @@ You need a reasonably recent GNU/Linux environment with:
 The project is built using the provided `Makefile`.
 
 ```bash
-git clone https://github.com/lillo24/delivery1_leonardocolli
-cd delivery1_leonardocolli
+git clone https://github.com/lillo24/parallel_SpMV
+cd parallel_SpMV
 
 make
 ```
